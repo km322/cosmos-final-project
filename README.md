@@ -23,14 +23,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/km322/VexRobotics-Team1516B">
-    <img src="https://calhighprojectgirls.weebly.com/uploads/1/1/5/5/115528279/published/roboticslogo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/km322/cosmos-final-project">
+    <img src="https://pbs.twimg.com/profile_images/822120897255325696/xbs-dM7Z_400x400.jpg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Team 1516B Vex Robot Code</h3>
+<h3 align="center">COSMOS Alzheimer's Disease Data Exploration Code</h3>
 
   <p align="center">
-    Vex Robotics code for the Tipping Point Vex Game
+    COSMOS code for Alzheimer's Disease
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
@@ -92,11 +92,11 @@ Continue reading for instructions.
 
 ### Prerequisites
 
-The code from the repo, the header files, the IDE (Vexcode Pro 5), and the compiler, as well as a robot compatible with this code and IDE.
+The code from COSMOS (R)
 
 ### Installation
 
-1. You don't have the header files. You cant until @km322 adds said header files and other required files.
+1. Make sure to install the proper packages in R Studios
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -105,16 +105,16 @@ The code from the repo, the header files, the IDE (Vexcode Pro 5), and the compi
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Once header files are put in the repo, you can git clone them.
+You can git clone them if needed. 
 
 ```
-git clone https://github.com/km322/VexRobotics-Team1516B.git
+git clone https://github.com/km322/cosmos-final-project.git
 ```
 
 ```
-cd VexRobotics-Team1516B
+cd cosmos-final-project
 ```
-Then import the folder into Vexcode Pro 5 and use the obvious buttons to upload them to the robot. You probably don't have our robot so you should read the code carefully and remap necessary buttons. Comments are included for help.
+Then import the folder into R studio and use the obvious buttons to use them. You can see the data visualizations we used. 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,8 +123,8 @@ Then import the folder into Vexcode Pro 5 and use the obvious buttons to upload 
 <!-- ROADMAP -->
 ## Roadmap
 
-- Make a great robot 👍
+- Explore the corrlation between mental health and Alzhiemer's Disease. Try to figure out whcih variables is related to AD. 
 
-See the [open issues](https://github.com/km322/VexRobotics-Team1516B/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/km322/cosmos-final-project/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
