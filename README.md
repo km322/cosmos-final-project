@@ -32,14 +32,14 @@
   <p align="center">
     COSMOS code for Alzheimer's Disease
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/github_username/cosmos-final-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_username/cosmos-final-project">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/km322/cosmos-final-project/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/km322/cosmos-final-project/issues">Request Feature</a>
   </p>
 </div>
 
@@ -80,7 +80,7 @@
 
 ### Built With
 
-* [Vexcode pro V5](https://www.vexrobotics.com/vexcode-pro)
+* [RStudio](https://www.rstudio.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
