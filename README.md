@@ -32,10 +32,10 @@
   <p align="center">
     COSMOS code for Alzheimer's Disease
     <br />
-    <a href="https://github.com/github_username/cosmos-final-project"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/km322/cosmos-final-project"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/cosmos-final-project">View Demo</a>
+    <a href="https://github.com/km322/cosmos-final-project">View Demo</a>
     ·
     <a href="https://github.com/km322/cosmos-final-project/issues">Report Bug</a>
     ·
