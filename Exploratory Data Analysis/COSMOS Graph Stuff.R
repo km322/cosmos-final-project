@@ -20,7 +20,7 @@ ggplot(alz,
   geom_bar(aes( y = ..prop.., fill = factor(..x..)), stat = "count") +
   geom_text(aes( label = scales::percent(..prop..),
                  y= ..prop.. ), stat= "count", vjust = -.5, size = 3) +
-  facet_grid(~depdsev) + 
+  facet_grid(~delsev) + 
   scale_y_continuous(labels = scales::percent) +
   labs(y = "percentage", fill = "diagnosis", x = "Delusion Severity") +
   theme(axis.text.x = element_blank(),
@@ -42,7 +42,7 @@ ggplot(alz,
   geom_bar(aes( y = ..prop.., fill = factor(..x..)), stat = "count") +
   geom_text(aes( label = scales::percent(..prop..),
                  y= ..prop.. ), stat= "count", vjust = -.5, size = 3) +
-  facet_grid(~depdsev) + 
+  facet_grid(~hallsev) + 
   scale_y_continuous(labels = scales::percent) +
   labs(y = "percentage", fill = "diagnosis", x = "Hallucinations severity") +
   theme(axis.text.x = element_blank(),
@@ -64,7 +64,7 @@ ggplot(alz,
   geom_bar(aes( y = ..prop.., fill = factor(..x..)), stat = "count") +
   geom_text(aes( label = scales::percent(..prop..),
                  y= ..prop.. ), stat= "count", vjust = -.5, size = 3) +
-  facet_grid(~depdsev) + 
+  facet_grid(~agitsev) + 
   scale_y_continuous(labels = scales::percent) +
   labs(y = "percentage", fill = "diagnosis", x = "Agitation or aggression severity") +
   theme(axis.text.x = element_blank(),
@@ -108,7 +108,7 @@ ggplot(alz,
   geom_bar(aes( y = ..prop.., fill = factor(..x..)), stat = "count") +
   geom_text(aes( label = scales::percent(..prop..),
                  y= ..prop.. ), stat= "count", vjust = -.5, size = 3) +
-  facet_grid(~depdsev) + 
+  facet_grid(~anxsev) + 
   scale_y_continuous(labels = scales::percent) +
   labs(y = "percentage", fill = "diagnosis", x = "Anxiety severity") +
   theme(axis.text.x = element_blank(),
@@ -130,7 +130,7 @@ ggplot(alz,
   geom_bar(aes( y = ..prop.., fill = factor(..x..)), stat = "count") +
   geom_text(aes( label = scales::percent(..prop..),
                  y= ..prop.. ), stat= "count", vjust = -.5, size = 3) +
-  facet_grid(~depdsev) + 
+  facet_grid(~elatsev) + 
   scale_y_continuous(labels = scales::percent) +
   labs(y = "percentage", fill = "diagnosis", x = "Elation or euphoria severity") +
   theme(axis.text.x = element_blank(),
@@ -152,7 +152,7 @@ ggplot(alz,
   geom_bar(aes( y = ..prop.., fill = factor(..x..)), stat = "count") +
   geom_text(aes( label = scales::percent(..prop..),
                  y= ..prop.. ), stat= "count", vjust = -.5, size = 3) +
-  facet_grid(~depdsev) + 
+  facet_grid(~apasev) + 
   scale_y_continuous(labels = scales::percent) +
   labs(y = "percentage", fill = "diagnosis", x = "Apathy or indifference severity") +
   theme(axis.text.x = element_blank(),
@@ -174,7 +174,7 @@ ggplot(alz,
   geom_bar(aes( y = ..prop.., fill = factor(..x..)), stat = "count") +
   geom_text(aes( label = scales::percent(..prop..),
                  y= ..prop.. ), stat= "count", vjust = -.5, size = 3) +
-  facet_grid(~depdsev) + 
+  facet_grid(~disnsev) + 
   scale_y_continuous(labels = scales::percent) +
   labs(y = "percentage", fill = "diagnosis", x = "Disinhibition severity") +
   theme(axis.text.x = element_blank(),
@@ -196,7 +196,7 @@ ggplot(alz,
   geom_bar(aes( y = ..prop.., fill = factor(..x..)), stat = "count") +
   geom_text(aes( label = scales::percent(..prop..),
                  y= ..prop.. ), stat= "count", vjust = -.5, size = 3) +
-  facet_grid(~depdsev) + 
+  facet_grid(~irrsev) + 
   scale_y_continuous(labels = scales::percent) +
   labs(y = "percentage", fill = "diagnosis", x = "Irritability or lability severity") +
   theme(axis.text.x = element_blank(),
