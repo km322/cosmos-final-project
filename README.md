@@ -88,7 +88,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Continue reading for instructions. This is not finished code however u can view our results <a href="https://docs.google.com/presentation/d/17XLdT3ZqTwe6KmQzfVJV6h9QM_LW96QY3pDXJCJKSjc/edit?usp=sharing"><strong>here»</strong></a>
+Continue reading for instructions. This is not finished code however you can view our results <a href="https://docs.google.com/presentation/d/17XLdT3ZqTwe6KmQzfVJV6h9QM_LW96QY3pDXJCJKSjc/edit?usp=sharing"><strong>here</strong></a>
 
 ### Prerequisites
 
