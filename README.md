@@ -88,7 +88,7 @@
 
 <!-- GETTING STARTED -->
 ## Getting Started
-Continue reading for instructions.
+Continue reading for instructions. This is not finished code however u can view our results <a href="https://github.com/km322/cosmos-final-project"><strong>here»</strong></a>
 
 ### Prerequisites
 
